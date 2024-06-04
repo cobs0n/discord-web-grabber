@@ -1,0 +1,21 @@
+{
+  "name": "discord-web-grabber",
+  "version": "1.0.0",
+  "description": "Discord token grabber and ip grabber",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "eslint": "^8.21.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch"
+  ]
+}
